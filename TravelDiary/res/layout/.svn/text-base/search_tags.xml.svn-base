@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#ffffff">
+	
+	<!--  Header Starts-->
+	<LinearLayout android:id="@+id/header"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:background="@layout/header_gradient"
+		android:paddingTop="1dip"
+		android:paddingBottom="1dip"> 
+		<!-- Logo Start-->
+		 <ImageView android:src="@drawable/logo"
+			android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="5dip"
+	        android:contentDescription="@string/logo_banner"/> 
+		 <!-- Logo Ends -->
+	</LinearLayout>           
+	<!--  Header Ends -->
+    
+    <TableLayout
+        android:id="@+id/table_tag_search"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+                <EditText
+                    android:id="@+id/txt_tag_search"
+                    android:layout_width="242dp"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:maxLines="1"
+                    android:hint="@string/srchTagHint">
+                    <requestFocus />
+                </EditText>
+				
+               <Button
+        android:id="@+id/btn_tag_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Search" />
+
+        </TableRow>
+    </TableLayout>
+</LinearLayout>		
+
+		        
+		
+      

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Travel Diary!</string>
+    <string name="app_name">Travel Diary</string>
+    <string name="maps_key">0j90sY5VxSPKDiG8OdvN8-DX0bK8evc8Yki2Nhw</string>
+    <string name="email_friend_message">Check out my trips with Travel Diary on your phone. Download the free app from your Android Market now! </string>
+    <string name="logo_banner">Logo Banner</string>
+    <string name="srchFriendHint">Search Friends</string>
+	<string name="srchTagHint">Search Tags</string> 
+	<string name="srchTripHint">Search Trips</string>
+</resources>

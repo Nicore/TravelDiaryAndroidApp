@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#ffffff">
+    
+    <!--  Header Starts-->
+    <LinearLayout android:id="@+id/header"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:background="@layout/header_gradient"
+      android:paddingTop="1dip"
+      android:paddingBottom="1dip"> 
+      <!-- Logo Start-->
+      <ImageView android:src="@drawable/logo"
+    	android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginLeft="5dip"
+              android:contentDescription="@string/logo_banner"/> 
+      <!-- Logo Ends -->
+    </LinearLayout>           
+    <!--  Header Ends -->
+    
+	<TableLayout
+	  android:layout_width="match_parent"
+	  android:layout_height="match_parent"
+	  android:orientation="vertical" 
+	  android:id="@+id/table_trip_search">
+	    
+	    
+	    
+	    <!--  Programmatic Trips are generated here -->
+	</TableLayout>
+</LinearLayout>

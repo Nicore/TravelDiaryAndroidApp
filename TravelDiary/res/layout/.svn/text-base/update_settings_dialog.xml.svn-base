@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+        
+        <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#fff" >
+    
+     <TextView android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:textColor="#372c24"
+                  android:text="First Name"/> 
+                  
+   	 	<EditText
+              android:id="@+id/updateFirstname"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="20dip"
+              android:layout_marginTop="5dip"
+              android:singleLine="true" />
+ 
+          <!-- Last Name Label -->
+          <TextView android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:textColor="#372c24"
+                  android:text="Last Name"/> 
+          <EditText android:id="@+id/updateLastname"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_marginTop="5dip"
+                  android:singleLine="true"
+                  android:layout_marginBottom="20dip"/> 
+          <!-- User Name Label -->
+          <TextView android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:textColor="#372c24"
+                  android:text="Username"/> 
+
+          <EditText
+              android:id="@+id/updateUsername"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="20dip"
+              android:layout_marginTop="5dip"
+              android:singleLine="true" />
+ 
+          <!--  Email Label -->
+          <TextView android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:textColor="#372c24"
+                  android:text="Email"/> 
+          <EditText android:id="@+id/updateEmail"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_marginTop="5dip"
+                  android:singleLine="true"
+                  android:layout_marginBottom="20dip"/> 
+          <!-- Password Label -->
+          <TextView android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:textColor="#372c24"
+                  android:text="Password"/> 
+
+          <EditText
+              android:id="@+id/updatePassword"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="5dip"
+              android:password="true"
+              android:singleLine="true" />
+          
+          
+ 
+          <!-- Register Button -->
+          <Button android:id="@+id/updateButton"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_marginTop="10dip"
+                  android:text="Update Your Account"/> 
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/info401/project2012/!svn/ver/314/branches/UI/res/layout
+END
+trip_start_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/info401/project2012/!svn/ver/312/branches/UI/res/layout/trip_start_dialog.xml
+END
+trip_grid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/info401/project2012/!svn/ver/201/branches/UI/res/layout/trip_grid.xml
+END
+email_friend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/info401/project2012/!svn/ver/105/branches/UI/res/layout/email_friend.xml
+END
+header_gradient.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/info401/project2012/!svn/ver/51/branches/UI/res/layout/header_gradient.xml
+END
+register.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/info401/project2012/!svn/ver/67/branches/UI/res/layout/register.xml
+END
+mic_edit_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/info401/project2012/!svn/ver/200/branches/UI/res/layout/mic_edit_dialog.xml
+END
+account_preferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/info401/project2012/!svn/ver/136/branches/UI/res/layout/account_preferences.xml
+END
+login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/info401/project2012/!svn/ver/137/branches/UI/res/layout/login.xml
+END
+note_save.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/info401/project2012/!svn/ver/66/branches/UI/res/layout/note_save.xml
+END
+trip_log.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/info401/project2012/!svn/ver/306/branches/UI/res/layout/trip_log.xml
+END
+image_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/info401/project2012/!svn/ver/172/branches/UI/res/layout/image_dialog.xml
+END
+update_settings_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/info401/project2012/!svn/ver/76/branches/UI/res/layout/update_settings_dialog.xml
+END
+media_associate_option.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/info401/project2012/!svn/ver/297/branches/UI/res/layout/media_associate_option.xml
+END
+photo_grid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/info401/project2012/!svn/ver/200/branches/UI/res/layout/photo_grid.xml
+END
+note_grid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/info401/project2012/!svn/ver/200/branches/UI/res/layout/note_grid.xml
+END
+authenticator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/info401/project2012/!svn/ver/136/branches/UI/res/layout/authenticator.xml
+END
+note_display.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/info401/project2012/!svn/ver/200/branches/UI/res/layout/note_display.xml
+END
+note_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/info401/project2012/!svn/ver/306/branches/UI/res/layout/note_dialog.xml
+END
+photo_display.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/info401/project2012/!svn/ver/201/branches/UI/res/layout/photo_display.xml
+END
+sync_contacts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/info401/project2012/!svn/ver/136/branches/UI/res/layout/sync_contacts.xml
+END
+event_option.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/info401/project2012/!svn/ver/199/branches/UI/res/layout/event_option.xml
+END
+mic_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/info401/project2012/!svn/ver/306/branches/UI/res/layout/mic_dialog.xml
+END
+media_grid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/info401/project2012/!svn/ver/201/branches/UI/res/layout/media_grid.xml
+END
+loose_media.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/info401/project2012/!svn/ver/157/branches/UI/res/layout/loose_media.xml
+END
+mainmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/info401/project2012/!svn/ver/301/branches/UI/res/layout/mainmap.xml
+END
+loose_media_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/info401/project2012/!svn/ver/233/branches/UI/res/layout/loose_media_dialog.xml
+END
+mic_display.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/info401/project2012/!svn/ver/200/branches/UI/res/layout/mic_display.xml
+END
+event_grid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/info401/project2012/!svn/ver/201/branches/UI/res/layout/event_grid.xml
+END
+event_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/info401/project2012/!svn/ver/314/branches/UI/res/layout/event_dialog.xml
+END
+trip_option.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/info401/project2012/!svn/ver/314/branches/UI/res/layout/trip_option.xml
+END
+audio_grid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/info401/project2012/!svn/ver/192/branches/UI/res/layout/audio_grid.xml
+END
+note_edit_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/info401/project2012/!svn/ver/200/branches/UI/res/layout/note_edit_dialog.xml
+END
+search_tags.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/info401/project2012/!svn/ver/303/branches/UI/res/layout/search_tags.xml
+END
+photo_edit_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/info401/project2012/!svn/ver/187/branches/UI/res/layout/photo_edit_dialog.xml
+END
+overlayitem_option.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/info401/project2012/!svn/ver/216/branches/UI/res/layout/overlayitem_option.xml
+END
+loose_media_dialog_extended.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/info401/project2012/!svn/ver/297/branches/UI/res/layout/loose_media_dialog_extended.xml
+END
+search_friend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/info401/project2012/!svn/ver/309/branches/UI/res/layout/search_friend.xml
+END
+displaytripmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/info401/project2012/!svn/ver/201/branches/UI/res/layout/displaytripmap.xml
+END
+mic_playback_display.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/info401/project2012/!svn/ver/201/branches/UI/res/layout/mic_playback_display.xml
+END

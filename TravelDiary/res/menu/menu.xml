@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_friend"
+        android:icon="@drawable/menu_friend"
+        android:title="Add Friend" />
+    <item android:id="@+id/menu_sync"
+        android:icon="@drawable/menu_sync" 
+        android:title="Synchronize Travel Diary"/>
+    <item android:id="@+id/menu_email"
+        android:icon="@drawable/menu_email"
+        android:title="Email Friend" />
+    <item android:id="@+id/menu_tags"
+        android:icon="@drawable/menu_tags"
+        android:title="Search Tags" />
+    <item android:id="@+id/menu_lbs"
+        android:icon="@drawable/menu_lbs"
+        android:title="Location Based Services" />
+    <item android:id="@+id/menu_logout"
+        android:icon="@drawable/menu_logout"
+        android:title="Logout" />
+</menu>

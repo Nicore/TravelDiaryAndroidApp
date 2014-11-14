@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            <TextView
+                android:id="@+id/txtNoteName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Note Name:" />
+            <EditText
+                android:id="@+id/editNoteName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+                <requestFocus />
+            </EditText>
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            <TextView
+                android:id="@+id/txtNoteDescription"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Note Description:" />
+            <EditText
+                android:id="@+id/editNoteDescription"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10" />
+        </TableRow>
+        
+         <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            <TextView
+                android:id="@+id/txtNoteTags"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Note Tags:" />
+            <EditText
+                android:id="@+id/editNoteTags"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10" android:lines="6"/>
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal" >
+            <Button
+                android:id="@+id/noteSave"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Save" />
+            <Button
+                android:id="@+id/noteCancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Cancel" />
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

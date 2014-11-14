@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/info401/project2012/!svn/ver/280/branches/WebServer/src/domain
+END
+Account.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/info401/project2012/!svn/ver/205/branches/WebServer/src/domain/Account.java
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/info401/project2012/!svn/ver/205/branches/WebServer/src/domain/Event.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/info401/project2012/!svn/ver/205/branches/WebServer/src/domain/Tag.java
+END
+Coordinate.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/info401/project2012/!svn/ver/205/branches/WebServer/src/domain/Coordinate.java
+END
+Trip.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/info401/project2012/!svn/ver/221/branches/WebServer/src/domain/Trip.java
+END
+Media.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/info401/project2012/!svn/ver/205/branches/WebServer/src/domain/Media.java
+END
+AccountTrip.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/info401/project2012/!svn/ver/280/branches/WebServer/src/domain/AccountTrip.java
+END

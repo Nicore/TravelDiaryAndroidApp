@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.android"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <uses-sdk android:minSdkVersion="7" />
+
+    <application android:icon="@drawable/app_logo" android:label="@string/app_name">
+        <activity android:name=".LoginActivity"
+                  android:label="Travel Diary">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+		<!--  Entry for RegisterActivity.class -->
+        <activity android:name=".RegisterActivity"
+                  android:label="Register new account">
+        </activity>
+        <activity android:name="LooseMedia"
+                  android:label="Loose Media">
+        </activity>
+        <activity android:name=".TripLog"
+                  android:label="Trip Log"
+                  android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".MainMapActivity"
+                  android:label="@string/app_name"
+                  android:theme="@android:style/Theme.NoTitleBar"
+                  android:screenOrientation="portrait">            
+        </activity>
+        <activity android:name=".MapRouteActivity"
+                  android:theme="@android:style/Theme.NoTitleBar"
+                  android:screenOrientation="portrait">            
+        </activity>
+        <activity android:name=".DisplayMapActivity"
+                  android:theme="@android:style/Theme.NoTitleBar"
+                  android:screenOrientation="portrait">            
+        </activity>
+        <activity android:name=".EmailFriendActivity" />
+        <activity android:name=".SearchFriendActivity" />
+        <activity android:name=".SearchTagsActivity" />
+        <activity android:name=".PhotoCategoryActivity" />
+        <activity android:name=".AudioCategoryActivity" />
+        <activity android:name=".NoteCategoryActivity" />
+        <activity android:name=".TripCategoryActivity" />
+        <activity android:name=".EventCategoryActivity" />
+        <activity android:name=".MediaCategoryActivity" />
+        
+		<uses-library android:name="com.google.android.maps" />
+		
+    </application>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.STORAGE" />
+    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" /> 
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" /> 
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <uses-permission android:name="android.permission.READ_SYNC_STATS" />
+    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" /> 
+    <uses-feature android:name="android.hardware.camera" android:required="false" />
+</manifest>

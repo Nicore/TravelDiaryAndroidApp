@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/info401/project2012/!svn/ver/317/branches/UI/src/sync
+END
+Registrar.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/info401/project2012/!svn/ver/282/branches/UI/src/sync/Registrar.java
+END
+SyncerTrip.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/info401/project2012/!svn/ver/315/branches/UI/src/sync/SyncerTrip.java
+END
+SyncerCoord.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/info401/project2012/!svn/ver/317/branches/UI/src/sync/SyncerCoord.java
+END
+SyncerMedia.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/info401/project2012/!svn/ver/315/branches/UI/src/sync/SyncerMedia.java
+END
+SyncerAccountTrip.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/info401/project2012/!svn/ver/310/branches/UI/src/sync/SyncerAccountTrip.java
+END
+SyncHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/info401/project2012/!svn/ver/315/branches/UI/src/sync/SyncHelper.java
+END
+Syncer.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/info401/project2012/!svn/ver/310/branches/UI/src/sync/Syncer.java
+END
+SyncerTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/info401/project2012/!svn/ver/310/branches/UI/src/sync/SyncerTag.java
+END
+SyncerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/info401/project2012/!svn/ver/315/branches/UI/src/sync/SyncerEvent.java
+END

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.google.android.maps.MapView
+        android:id="@+id/mapview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/linearLayout1"
+        android:apiKey="@string/maps_key"
+        android:clickable="true" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="80px"
+        android:layout_centerHorizontal="true"
+        android:layout_weight="1"
+        android:background="#333333"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btnEvent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Start Event"
+            android:background="@drawable/event_button"
+            android:gravity="center_horizontal"            
+            android:padding="10dp" />
+            
+        <Button
+            android:id="@+id/btnCamera"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/cam_button"
+            android:gravity="center_horizontal"
+            android:padding="10dp" />
+            
+        <Button
+            android:id="@+id/btnMic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/mic_button"
+            android:gravity="center_horizontal"
+            android:padding="10dp" />
+
+        <Button
+            android:id="@+id/btnNote"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/pad_button"
+            android:gravity="center_horizontal"
+            android:padding="10dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/mapview"
+        android:layout_centerHorizontal="true"
+        android:layout_weight="1"
+        android:background="#333333"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btnStartTrip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#333333"
+            android:gravity="center_horizontal"
+            android:padding="10dp"
+            android:text="Start Trip"
+            android:textColor="#ffffff" />
+
+        <Button
+            android:id="@+id/btnTripLog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#333333"
+            android:gravity="center_horizontal"
+            android:padding="10dp"
+            android:text="Trip Log"
+            android:textColor="#ffffff" />
+
+        <Button
+            android:id="@+id/btnLooseMedia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#333333"
+            android:gravity="center_horizontal"
+            android:padding="10dp"
+            android:text="Loose Media"
+            android:textColor="#ffffff" />
+    </LinearLayout>
+
+</RelativeLayout> 
